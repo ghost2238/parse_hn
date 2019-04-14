@@ -1,0 +1,6 @@
+
+.vs/**
+cli/build/**
+cli/obj/**
+lib/build/**
+lib/obj/**
